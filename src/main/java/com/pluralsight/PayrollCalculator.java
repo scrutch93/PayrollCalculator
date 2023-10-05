@@ -2,7 +2,7 @@ package com.pluralsight;
 
 import java.util.Scanner;
 
-public class PayrollCalulator {
+public class PayrollCalculator {
 
     public static void main (String[] args){
 
@@ -21,7 +21,6 @@ public class PayrollCalulator {
         double gross = hours * payRate;
 
         System.out.println("Your gross pay is : " + gross);
-        //double payRate =
 
 
 
